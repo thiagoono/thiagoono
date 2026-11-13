@@ -1,11 +1,10 @@
-
 # Olá! Eu sou o Thiago Ono 👋
 
 🎓 Estudante de **Tecnologia em Sistemas para Internet na UTFPR-GP**.
 
 Gosto de lógica, resolução de problemas e de entender como as coisas funcionam. Estou construindo minha base em desenvolvimento de software por meio da faculdade, de estudos independentes e de projetos práticos.
 
-Atualmente, estou explorando o desenvolvimento **back-end e full-stack**, sempre buscando aprender algo novo e transformar conhecimento em projetos reais.
+Atualmente, estou explorando o desenvolvimento **back-end e full-stack**, com foco no aprendizado contínuo e na construção de projetos que consolidem meus conhecimentos.
 
 ## 🛠️ Tecnologias
 
@@ -24,7 +23,8 @@ Atualmente, estou explorando o desenvolvimento **back-end e full-stack**, sempre
 
 **Estudando atualmente**
 
-- Ruby — fundamentos da linguagem e próximos projetos pelo The Odin Project.
+- Ruby — fundamentos da linguagem e desenvolvimento back-end.
+- [The Odin Project](https://www.theodinproject.com/) — currículo de desenvolvimento web, com foco em fundamentos, Ruby, JavaScript e desenvolvimento full-stack.
 
 ## 🚀 Projetos em destaque
 
@@ -60,11 +60,11 @@ Página desenvolvida como projeto final de um curso de HTML e CSS, com foco na e
 
 [Ver repositório](https://github.com/thiagoono/projeto-final-landing-page) · [Experimentar online](https://thiagoono.github.io/projeto-final-landing-page/)
 
-## 📚 Atualmente aprendendo
+## 📚 The Odin Project
 
-- Ruby e desenvolvimento back-end.
-- Boas práticas de programação e organização de código.
-- Desenvolvimento de projetos para consolidar fundamentos e aprender novas tecnologias.
+Atualmente, estou desenvolvendo projetos práticos como parte do currículo do The Odin Project.
+
+Os projetos mais recentes dessa jornada estarão sempre fixados no meu perfil do GitHub, acompanhando minha evolução e os conteúdos que venho estudando.
 
 ## 📫 Contato
 
